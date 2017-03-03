@@ -18,13 +18,13 @@ html, body {
     background-size: cover;
 }
 h1 {
-    font-size: 56px !important;
+    font-size: 50px !important;
     font-family: 'Roboto', serif !important;
     font-weight: 900 !important;
-    line-height: 100% !important;
+    line-height: 120% !important;
 }
-small {
-    font-size: 18px !important;
+.small {
+    font-size: 32px !important;
     font-weight: 100 !important;
 }
 p {
@@ -33,7 +33,7 @@ p {
     text-align: justify
 }
 .vertical-align {
-  margin-top: 100px;
+  margin-top: 80px;
   display: flex;
   flex-direction: row;
 }
@@ -45,8 +45,8 @@ p {
                               horizontally within the column  */
 }
 .padding{
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
 }
 .twitter {
     width: 50px;
@@ -61,5 +61,5 @@ p {
     padding-left: px
 }
 .bottom {
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
