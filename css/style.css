@@ -40,17 +40,8 @@ p {
     padding-left: 30px;
     padding-right: 30px;
 }
-.twitter { 
-    width: 50px;
-    padding-left: 15px;
-}
-.linkedin {
-    width: 55px;
-    padding-left: 15px;
-}
-.github {
-    height: 50px;
-    padding-left: px
+.icon-padding { 
+    padding-left: 20px;
 }
 .bottom {
     margin-bottom: 15px;
