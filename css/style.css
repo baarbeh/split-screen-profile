@@ -7,9 +7,11 @@ html, body {
     height: 100vh;
     background-size: cover;
 }
+@font-family-base {
+    font-family: 'Roboto', serif;
+}
 h1 {
     font-size: 50px !important;
-    font-family: 'Roboto', serif !important;
     font-weight: 900 !important;
     line-height: 120% !important;
 }
@@ -63,3 +65,10 @@ p {
 .hvr-grow:active {
     transform: scale(1.1);
 }
+ul {
+    padding-top: 5px;
+    line-height: 36px;
+    padding-bottom: 15px;
+}
+
+    
